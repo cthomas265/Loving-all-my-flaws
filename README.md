@@ -2,6 +2,8 @@
 html-css-git
 Carrie's first challenge with Coding Bootcamp
 
+All content add to README has been added from my local repo. 
+
 1- Change element labels to make easier to read
 
 
