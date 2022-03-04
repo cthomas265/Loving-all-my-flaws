@@ -1,16 +1,13 @@
 # Loving-all-my-flaws
 html-css-git
-Carrie's first challenge with Coding Bootcamp
+First challenge with Coding Bootcamp. Refactoring code to accomplish
 
-All content add to README has been added from my local repo. 
+All content added to README has been uploaded from my local repo. 
 
-1- Change element labels to make easier to read
+1-Create symantic html
 
+2-Verify pictures have corresponding alt attributes
 
-2-Remove unnecessary class and id names
-
-
-3-Change corresponding elements in CSS
-
+3-Verify code follows logical order
 
 4-Consolidate CSS elements with matching properties to make symantic
