@@ -7,7 +7,9 @@
 body {
     background-color: #d9dcd6;
 }
- /* relabeled header */
+
+
+ /* header style */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,7 +26,7 @@ span {
     color: #d9dcd6;
 }
 
-/* relabeled nav */
+/* nevigation */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -47,6 +49,7 @@ a {
     text-decoration: none;
 }
 
+/* hero */
 .hero {
     height: 800px;
     width: 100%;
@@ -56,6 +59,7 @@ a {
     background-position: center;
 }
 
+/* main */
 p {
     font-size: 16px;
 }
@@ -99,6 +103,7 @@ content div h2 {
     font-size: 36px;
 }
 
+/* benefits */
 .benefit {
     margin-right: 20px;
     padding: 20px;
@@ -127,6 +132,7 @@ content div h2 {
     max-width: 150px;
 }
 
+/* footer */
 footer {
     padding: 30px;
     clear: both;
